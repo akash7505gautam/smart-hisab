@@ -32,7 +32,7 @@ const Business = () => (
         Spend Smarter, <br className="sm:block hidden" /> Save Faster.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Expensync helps you stay on top of your financial goals with category-wise budgeting, smart alerts, and seamless syncing. Take charge of your spending—every rupee matters.
+        Smart Hisab helps you stay on top of your financial goals with category-wise budgeting, smart alerts, and seamless syncing. Take charge of your spending—every rupee matters.
       </p>
 
       <Button styles={`mt-10`} />

@@ -1,5 +1,5 @@
 import styles from "../style";
-import { robot } from "../assets"; // Replace with a relevant Expensync image later
+import { robot } from "../assets"; // Replace with a relevant smart hisab image later
 import GetStarted from "./GetStarted";
 
 
@@ -28,7 +28,7 @@ const Hero = () => {
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-neutral-900 dark:text-white ss:leading-[100.8px] leading-[75px] w-full">
-          With Expensync.
+          With Smart Hisab.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5 text-neutral-700 dark:text-dimWhite`}>
           Manage your budgets, set spending goals, and stay financially aware with a smart and intuitive dashboard. All in real-time.

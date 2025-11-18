@@ -25,7 +25,7 @@ const Navbar = () => {
           to="/home"
           className="text-xl font-extrabold tracking-tight flex items-center bg-gradient-to-r from-[#001f3f] via-cyan-400 to-cyan-200 bg-clip-text text-transparent"
         >
-          <img src="/animations/logo1.png" alt="" className="h-12" /> Expensync
+          <img src="/animations/logo1.png" alt="" className="h-12" /> Smart Hisab
         </Link>
 
         <div className="flex items-center gap-4 md:gap-6">
@@ -61,7 +61,7 @@ const Navbar = () => {
             </ul>
           </div>
 
-          {/* Theme Toggle */}
+          {}
           <button
             onClick={toggleTheme}
             className="text-xl px-3 py-1 rounded-lg hover:bg-gray-200 dark:hover:bg-[#1A365D] transition"

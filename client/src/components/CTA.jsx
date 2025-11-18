@@ -13,7 +13,7 @@ const CTA = () => (
                 Ready to simplify your finances?
             </h2>
             <p className={`${styles.paragraph} max-w-[470px] mt-5 text-black dark:text-white`}>
-                Track expenses, set budgets, and reach your financial goals — all with Expensync. Join thousands managing their money smarter.
+                Track expenses, set budgets, and reach your financial goals — all with Smart Hisab. Join thousands managing their money smarter.
             </p>
         </div>
 
