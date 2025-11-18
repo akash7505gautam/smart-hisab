@@ -6,7 +6,7 @@ import {
 } from "../utils/toast";
 import { loaderControl } from "../utils/loaderControl"; // 👈 loader utility
 
-const BASE_URL = "https://expensync-ex0w.onrender.com/api/v1";
+const BASE_URL = "https://smart-hisab-backend.onrender.com/";
 
 // Axios instance
 const API = axios.create({
